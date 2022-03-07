@@ -1,4 +1,5 @@
 # C++ for the dummies
+
 A repository suited for people getting into C++ that have no CS background, that want to get into programming, that would like to learn a language but are masochist, or for people that don't want to feel like a bag of rotting potatoes.
 
 ## Instructions: basics
