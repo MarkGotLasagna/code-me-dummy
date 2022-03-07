@@ -1,9 +1,9 @@
 # C++ for the dummies
 
-A repository suited for people getting into C++ that have no CS background, that want to get into programming, that would like to learn a language but are masochist, or for people that don't want to feel like a bag of rotting potatoes.
+A repository suited for people getting into C++ that have CS background, that want to get into programming, that would like to learn a language but are masochist, or for people that don't want to feel like a bag of rotting potatoes.
 
 ## Instructions: basics
-You'll need a compiler. I'll assume that you already know what is a compiler. If you don't, then read a book or someth- nah joking. Check this [Wikipedia article](https://en.wikipedia.org/wiki/Compiler). The compiler executable will then [need indexing](https://code.visualstudio.com/docs/languages/cpp#_check-if-you-have-a-compiler-installed) in either your `%PATH` (Windows) or your `$PATH` (macOS).
+You'll need a compiler. I'll assume that you already know what a compiler is. If you don't, then read a book or some-- nah joking. Check this [Wikipedia article](https://en.wikipedia.org/wiki/Compiler). The compiler executable will then [need indexing](https://code.visualstudio.com/docs/languages/cpp#_check-if-you-have-a-compiler-installed) in either your `%PATH` (Windows) or your `$PATH` (macOS).
 
 - If you're using **Linux** (like real men do) you should have the GNU compiler collection ([GCC](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)) already installed. It will do the trick for both C++ and C (a subset of C++). Check with 
 
