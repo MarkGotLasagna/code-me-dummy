@@ -1,5 +1,7 @@
 # C++ for the dummies
 
+![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/Cpp-for-the-dummies?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/Cpp-for-the-dummies?style=plastic)
+
 A repository suited for people getting into C++ that have CS background, that want to get into programming, that would like to learn a language but are masochist, or for people that don't want to feel like a bag of rotting potatoes.
 
 `/code` folder contains all the source code, solutions to the problems are proposed inside this folder at the bottom of each script.
