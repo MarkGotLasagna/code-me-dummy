@@ -2,6 +2,9 @@
 
 A repository suited for people getting into C++ that have CS background, that want to get into programming, that would like to learn a language but are masochist, or for people that don't want to feel like a bag of rotting potatoes.
 
+`/code` folder contains all the source code, solutions to the problems proposed inside `/text`.
+Some hints are provided if you're struggling.
+
 ## Instructions: basics
 You'll need a compiler. I'll assume that you already know what a compiler is. If you don't, then read a book or some-- nah joking. Check this [Wikipedia article](https://en.wikipedia.org/wiki/Compiler). The compiler executable will then [need indexing](https://code.visualstudio.com/docs/languages/cpp#_check-if-you-have-a-compiler-installed) in either your `%PATH` (Windows) or your `$PATH` (macOS).
 
