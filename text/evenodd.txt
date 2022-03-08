@@ -1,0 +1,8 @@
+/*  PROBLEM
+    write a program that takes as input a number
+    and checks if it is even or odd
+*/
+
+/*  HINT
+    what about a loop that does it?
+*/

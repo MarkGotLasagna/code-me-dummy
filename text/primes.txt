@@ -1,0 +1,7 @@
+/*  PROBLEM
+    check for primality of an input number
+*/
+
+/*  HINT
+    what is a prime number? write a program that checks that
+*/

@@ -18,7 +18,8 @@ You'll need a compiler. I'll assume that you already know what a compiler is. If
 
 *note: you can use [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) on your Windows machine if you feel powerful.*
 
-Install an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), I highly recommend using [Visual Studio Code](https://code.visualstudio.com/). I've tried others but I like it the most for its customizable factors and easiness of use. It is also the most popular compiler around and used by millions.
+Install an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), I highly recommend using [Visual Studio Code](https://code.visualstudio.com/). I've tried others but I like it the most for its customizable factors and easiness of use. It is also the most popular IDE around and used by millions.
+After that, go to the extensions tab and search for "C/C++" by Microsoft. Install it to have full support for code completion and debugging.
 
 ## Instructions: how to
 To compile the source code (aka the `.cpp` files), run:

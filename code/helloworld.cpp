@@ -1,3 +1,7 @@
+/*  PROBLEM
+    write the simplest 'Hello world!' you can think of in C++
+*/
+
 // @author Marco Rondelli
 // @date 2022-03
 // g++ -Wall -o helloworld helloworld.cpp
