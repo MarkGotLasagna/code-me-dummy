@@ -46,5 +46,5 @@ int main() {
 
 /*  SOLUTION
     a nested loop for both height and length will do the trick:
-    as a row is completed we insert a newline '\n' to do the other and so onù
+    as a row is completed we insert a newline '\n' to do the other and so on
 */
