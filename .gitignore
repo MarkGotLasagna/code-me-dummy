@@ -1,2 +1,4 @@
 # ignore executables
 /exe
+# vscode workspace in code folder
+*code-workspace
