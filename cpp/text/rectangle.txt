@@ -1,0 +1,8 @@
+/*  PROBLEM
+    write a program that takes as input two integers and prints
+    a rectangle using this two (define a function if you feel to)
+*/
+
+/*  HINT
+    a nested loop should do the trick for this
+*/
