@@ -1,7 +1,0 @@
-/*  PROBLEM
-    write the simplest 'Hello world!' program you can think of in C++
-*/
-
-/*  HINT
-    include the classics and print a string
-*/

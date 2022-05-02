@@ -1,8 +1,0 @@
-/*  PROBLEM
-    write a program that takes as input 3 numbers (in R)
-    and calculates 2 real solutions of a quadratic formula
-*/
-
-/*  HINT
-    declare some variables to store values and results
-*/

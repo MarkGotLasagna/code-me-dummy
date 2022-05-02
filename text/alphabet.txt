@@ -1,8 +1,0 @@
-/*  PROBLEM
-    using the decimal 'int' value associated to each 'char' (e.g. 'A' = 65),
-    try printing the latin alphabet
-*/
-
-/*  HINT
-    use a cycle to print letters on a certain index
-*/

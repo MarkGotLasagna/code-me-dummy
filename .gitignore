@@ -1,4 +1,6 @@
 # ignore executables
 /exe
+/.fleet
+/.idea
 # vscode workspace in code folder
 *code-workspace
