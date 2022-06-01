@@ -1,0 +1,9 @@
+/*  PROBLEM
+    write a program that takes as inputs the current year, your age,
+    and a year in the future/past, to calculate what your age will be/was
+*/
+
+/*  HINT
+    assign some variables to the current year, your age and a year in the past/future,
+    then calculate and store the future/past age
+*/
