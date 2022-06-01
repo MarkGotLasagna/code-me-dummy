@@ -1,16 +1,16 @@
 # Coding for dummies :nerd_face:
 
-![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/Cpp-for-the-dummies?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/Cpp-for-the-dummies?style=plastic)
+![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?style=plastic)
 
-A repository suited for people getting into C++.
+A repository suited for people getting into programming.
 
 `/code` folder contains all the source code, solutions to the problems are proposed inside this folder at the bottom of each script.
 
 `/text` contains the problems and some hints if you're struggling to find a solution. Also note that a problem could have more solutions, so more implementations. Be creative.
 
 ## Instructions: basics
-You'll need a compiler. I'll assume that you already know what a compiler is. If you don't, then read a book or some-- nah joking. Check this [Wikipedia article](https://en.wikipedia.org/wiki/Compiler). The compiler executable will then [need indexing](https://code.visualstudio.com/docs/languages/cpp#_check-if-you-have-a-compiler-installed) in either your `%PATH` (Windows) or your `$PATH` (macOS).
-
+You'll need compilers. I'll assume that you already know what a compiler is. If you don't, then read a book or some-- nah joking. Check this [Wikipedia article](https://en.wikipedia.org/wiki/Compiler). The compiler executable will then [need indexing](https://code.visualstudio.com/docs/languages/cpp#_check-if-you-have-a-compiler-installed) in either your `%PATH` (Windows) or your `$PATH` (macOS).
+### basics: c++
 - If you're using **Linux** (like real men do) you should have the GNU compiler collection ([GCC](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)) already installed. It will do the trick for both C++ and C (a subset of C++). Check with 
 
     `gcc -v`.
@@ -28,6 +28,7 @@ Install an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environmen
 After that, go to the extensions tab and search for "C/C++" by Microsoft. Install it to have full support for code completion and debugging.
 
 ## Instructions: how to
+### how to: c++
 To compile the source code (aka the `.cpp` files), run:
 - `clang++ -Wall filename.cpp -o filename`
 
