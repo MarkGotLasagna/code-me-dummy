@@ -1,4 +1,4 @@
-# C++ for the dummies :nerd_face:
+# Coding for dummies :nerd_face:
 
 ![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/Cpp-for-the-dummies?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/Cpp-for-the-dummies?style=plastic)
 
