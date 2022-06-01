@@ -25,7 +25,7 @@ int main() {
 	else if(k>x){
 		h= y+(k-x);
 		cout << "Your age in "<< k <<" will be "<< h <<endl;
-	}
+		}
 	
 	else cout << "In the year "<< k <<" you still weren't born " << endl;		
 	return 0;		
