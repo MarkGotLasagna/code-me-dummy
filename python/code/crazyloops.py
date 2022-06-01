@@ -1,4 +1,5 @@
 # how slow are python loops?
+cock
 import timeit as it
 import numpy as np
 
