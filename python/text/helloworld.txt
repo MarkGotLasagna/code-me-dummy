@@ -1,0 +1,6 @@
+#   PROBLEM
+#   try writing a simple script to print out "Hello world!"
+
+#   HINT
+#   python is quite a straight forward language, try using the 
+#   print() to print a string to the terminal

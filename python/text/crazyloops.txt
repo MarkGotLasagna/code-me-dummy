@@ -1,1 +1,3 @@
 # How slow are python loops?
+# check the program crazyloops.py to see what are some of the caveats 
+# regarding python loops 
