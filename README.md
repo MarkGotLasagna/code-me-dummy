@@ -41,7 +41,9 @@ After that, go to the extensions tab and search for "C/C++" by Microsoft. Instal
 
     `clang -v`
 
-
+Learn about C++ with the following courses:
+ - https://www.learncpp.com/
+ - https://www.w3schools.com/CPP/default.asp
 
 ### basics: python
  - On **Linux** a python compiler should be preinstalled, if not, use your package manager to install it
@@ -53,6 +55,11 @@ After that, go to the extensions tab and search for "C/C++" by Microsoft. Instal
     `python --version`
 
  - For **Windows** do the same as the above
+
+Learn about python with following the courses: 
+ - https://www.learnpython.org/
+ - https://www.w3schools.com/python/
+
 
 ---
 
