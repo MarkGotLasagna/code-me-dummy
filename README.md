@@ -1,6 +1,6 @@
 # Coding for dummies :nerd_face:
 
-![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?style=plastic)
+![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?style=plastic) ![cpp](https://img.shields.io/badge/C++-black.svg?style=flat&logo=C%2B%2B) ![python](https://img.shields.io/badge/Python-black.svg?style=flat&logo=python)
 
 A repository suited for people getting into programming.
 
@@ -10,7 +10,7 @@ The folder structure is as follows:
 ├── language1
 │   ├── code
 │   └── text
-└── language2
+├── language2
 │   ├── code
 │   └── text
 └── ...
@@ -56,7 +56,7 @@ Learn about C++ with the following courses:
 
  - For **Windows** do the same as the above
 
-Learn about python with following the courses: 
+Learn about python with the following courses: 
  - https://www.learnpython.org/
  - https://www.w3schools.com/python/
 
