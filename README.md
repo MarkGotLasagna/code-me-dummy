@@ -35,7 +35,7 @@ The folder structure is as follows:
 You'll need compilers. I'll assume that you already know what a compiler is. If you don't, then read a book or some-- nah joking. Check this [Wikipedia article](https://en.wikipedia.org/wiki/Compiler). The compiler executable will then [need indexing](https://code.visualstudio.com/docs/languages/cpp#_check-if-you-have-a-compiler-installed) in either your `%PATH` (Windows) or your `$PATH` (macOS).
 
 Install an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), I highly recommend using [Visual Studio Code](https://code.visualstudio.com/). I've tried others but I like it the most for its customizable factors and easiness of use. It is also the most popular IDE around and used by millions.
-After that, go to the extensions tab and search for "C/C++" by Microsoft. Install it to have full support for code completion and debugging.
+After that, go to the extensions tab and search for "`language`". Install it to have full support for code completion and debugging.
 
 *note: you can use [WSL](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) on your Windows machine if you feel powerful.*
 
