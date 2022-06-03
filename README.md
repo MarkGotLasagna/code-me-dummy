@@ -1,6 +1,6 @@
 # Coding for dummies :nerd_face:
 
-![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?style=plastic) ![cpp](https://img.shields.io/badge/C++-black.svg?style=flat&logo=C%2B%2B) ![python](https://img.shields.io/badge/Python-black.svg?style=flat&logo=python)
+<p style="text-align: center;"> ![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?style=plastic) ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?style=plastic) ![cpp](https://img.shields.io/badge/C++-black.svg?style=flat&logo=C%2B%2B) ![python](https://img.shields.io/badge/Python-black.svg?style=flat&logo=python) </p>
 
 A repository suited for people getting into programming.
 
