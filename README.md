@@ -1,11 +1,18 @@
 # Coding for dummies :nerd_face:
 
-<div align="center">
-<a href="">![code-size](https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?style=plastic)</a>
-     ![lines](https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?style=plastic) ![cpp](https://img.shields.io/badge/C++-black.svg?style=flat&logo=C%2B%2B) ![python](https://img.shields.io/badge/Python-black.svg?style=flat&logo=python)
+<div align=center>
+    <image src=https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?color=white></image>
+    <image src=https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?color=white></image>
+    <br>
+    <image src=https://img.shields.io/badge/C++-black.svg?style=flat&logo=C%2B%2B></image>
+    <image src=https://img.shields.io/badge/Python-black.svg?style=flat&logo=python></image> 
 </div>
 
-A repository suited for people getting into programming.
+<div align=center>
+    <br>
+    A repository suited for people getting into programming.
+    <br><br>
+</div>
 
 The folder structure is as follows:
 ```
@@ -24,7 +31,7 @@ The folder structure is as follows:
 
 ---
 
-## Instructions: basics
+## Instructions: basics 📖
 You'll need compilers. I'll assume that you already know what a compiler is. If you don't, then read a book or some-- nah joking. Check this [Wikipedia article](https://en.wikipedia.org/wiki/Compiler). The compiler executable will then [need indexing](https://code.visualstudio.com/docs/languages/cpp#_check-if-you-have-a-compiler-installed) in either your `%PATH` (Windows) or your `$PATH` (macOS).
 
 Install an [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment), I highly recommend using [Visual Studio Code](https://code.visualstudio.com/). I've tried others but I like it the most for its customizable factors and easiness of use. It is also the most popular IDE around and used by millions.
@@ -66,7 +73,7 @@ Learn about python with the following courses:
 
 ---
 
-## Instructions: how to
+## Instructions: how to 📖
 ### how to: c++
 To compile the source code (aka the `.cpp` files), run:
 - `clang++ -Wall filename.cpp -o filename`
