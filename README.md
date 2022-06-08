@@ -86,3 +86,5 @@ Compiling python scripts is as simple as typing:
  - `python filename.py`
     
     *note: to use a specific version of python (which might be needed if some scripts fail to compile), append the version like `python3 filename.py`*
+
+*note: some programs might have an 'alternative' solution to the problem, they are denoted with the keyword `_alt`*

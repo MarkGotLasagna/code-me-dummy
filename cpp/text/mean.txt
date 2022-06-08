@@ -1,0 +1,14 @@
+/*  PROBLEM
+    write a simple program that calculates the arithmetic mean of inputted scores 
+    (max score: 30, base: 110) and halts when -1 is inserted
+*/
+
+/*  HINT
+    a while() cycle could be the solution on storing inside a variable (say 'sum')
+    the inputs as they come from std::cin
+    the breaking condition for the while() loop will be -1
+*/
+
+/*  ALTERNATIVE to mean.cpp
+    this assumes you already know how many inputs there will be
+*/

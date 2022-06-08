@@ -2,5 +2,5 @@
 /exe
 /.fleet
 /.idea
-# vscode workspace in code folder
+/Fondamenti*
 *code-workspace

@@ -1,0 +1,8 @@
+/*  PROBLEM
+    write a program that converts centimeters to inches or vice versa
+    note: 1 in = 2.54 cm
+*/
+
+/*  HINT
+    store inside a variable the conversion quota and calculate the results
+*/
