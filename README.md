@@ -4,8 +4,9 @@
     <image src=https://img.shields.io/github/languages/code-size/MarkGotLasagna/code-me-dummy?color=white></image>
     <image src=https://img.shields.io/tokei/lines/github.com/MarkGotLasagna/code-me-dummy?color=white></image>
     <br>
-    <image src=https://img.shields.io/badge/C++-black.svg?style=flat&logo=C%2B%2B></image>
-    <image src=https://img.shields.io/badge/Python-black.svg?style=flat&logo=python></image> 
+    <!-- from staging site, not working from production yet -->
+    <image src=https://shields-staging.herokuapp.com/github/directory-file-count/MarkGotLasagna/code-me-dummy/cpp/code?color=black&label=C%2B%2B&logo=C%2B%2B&logoColor=white></image>
+    <image src=https://shields-staging.herokuapp.com/github/directory-file-count/MarkGotLasagna/code-me-dummy/python/code?color=black&label=Python&logo=Python></image> 
 </div>
 
 <div align=center>
