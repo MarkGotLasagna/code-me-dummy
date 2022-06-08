@@ -1,0 +1,10 @@
+/*  PROBLEM
+    write a program that takes 3 inputs in the form <number> <operator> <number>,
+    calculates the result of the operation and returns the result
+    example: 1 + 1 = 2
+*/
+
+/*  HINT
+    use a switch() to select which operator does what, taken as input a pipe from cin
+    e.g. case '+': res=x+y
+*/
