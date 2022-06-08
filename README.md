@@ -26,9 +26,11 @@ The folder structure is as follows:
 │   └── text
 └── ...
 ```
-`/code` folder contains all the source code, solutions to the problems are proposed inside this folder at the bottom of each program.
+`/code` folder contains all the source code, solutions to the problems are proposed inside this folder and at the bottom of each program an explanation is provided.
 
 `/text` contains the problems and some hints if you're struggling to find a solution. Also note that a problem could have more solutions, so more implementations.
+
+*note: some programs might have an "alternative" solution to the problem, they are denoted with the keyword `_alt`*
 
 ---
 
@@ -87,5 +89,3 @@ Compiling python scripts is as simple as typing:
  - `python filename.py`
     
     *note: to use a specific version of python (which might be needed if some scripts fail to compile), append the version like `python3 filename.py`*
-
-*note: some programs might have an 'alternative' solution to the problem, they are denoted with the keyword `_alt`*
