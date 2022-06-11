@@ -11,7 +11,7 @@ def while_loop(n=100_000_000):
         i+=1
     return s
 
-# here C code manages the itarations checking bounds and so on
+# here C code manages the iterations checking bounds and so on
 def for_loop(n=100_000_000):
     s=0
     for i in range(n):
