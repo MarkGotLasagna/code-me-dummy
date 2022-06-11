@@ -1,0 +1,17 @@
+#   PROBLEM
+#   using your knowledge about python variables, declare some which contain 
+#   the following things: "ciao", a float with value of "68.0" and an integer 
+#   with value "419"
+#   note: the correctness of the newly assigned values will be checked with the below code (copy paste)
+
+#   code testing
+#   if mystring == "ciao":
+#       print("String: %s" % mystring)
+#   if isinstance(myfloat, float) and myfloat == 68.0:
+#       print("Float: %f" % myfloat)
+#   if isinstance(myint, int) and myint == 419:
+#       print("Integer: %d" % myint)
+
+#   HINT
+#   declare above the "code testing" section, the 3 variables
+#   then run the code to test if all 3 prints print something
