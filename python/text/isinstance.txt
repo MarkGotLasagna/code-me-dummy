@@ -5,12 +5,18 @@
 #   note: the correctness of the newly assigned values will be checked with the below code (copy paste)
 
 #   code testing
-#   if mystring == "ciao":
-#       print("String: %s" % mystring)
-#   if isinstance(myfloat, float) and myfloat == 68.0:
-#       print("Float: %f" % myfloat)
-#   if isinstance(myint, int) and myint == 419:
-#       print("Integer: %d" % myint)
+if mystring == "ciao":
+    print("String: %s" % mystring)
+else:
+    print("Not valid")
+if isinstance(myfloat, float) and myfloat == 68.0:
+    print("Float: %f" % myfloat)
+else:
+    print("Not valid")
+if isinstance(myint, int) and myint == 419:
+    print("Integer: %d" % myint)
+else:
+    print("Not valid")
 
 #   HINT
 #   declare above the "code testing" section, the 3 variables

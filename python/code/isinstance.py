@@ -11,10 +11,16 @@ myint = 419
 #   code testing
 if mystring == "ciao":
     print("String: %s" % mystring)
+else:
+    print("Not valid")
 if isinstance(myfloat, float) and myfloat == 68.0:
     print("Float: %f" % myfloat)
+else:
+    print("Not valid")
 if isinstance(myint, int) and myint == 419:
     print("Integer: %d" % myint)
+else:
+    print("Not valid")
 
 #   SOLUTION
 #   strings in python are flexible and can be defined either with a quote or
